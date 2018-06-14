@@ -7,6 +7,7 @@ function test1()
 function test2()
 {
   //made from master branch
+  //more comments from master branch
   console.log("test2 dev")
 }
 
