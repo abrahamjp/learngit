@@ -1,6 +1,7 @@
 
 function test1()
 {
+  cosole.log("test1")
 }
 
 function test2()
