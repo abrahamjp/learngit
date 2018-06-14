@@ -20,3 +20,8 @@ function test3()
 function test4()
 {
 }
+
+//from master
+function test5()
+{
+}
