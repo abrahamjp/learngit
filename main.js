@@ -25,6 +25,7 @@ function test4()
 function test6()
 {
   //yet to be implemented
+  console.log('test6 from dev')
 }
 
 //from master
