@@ -1,0 +1,4 @@
+.personal
+.DS_Store
+*.pyc
+bin/
