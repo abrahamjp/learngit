@@ -19,6 +19,12 @@ function test3()
 
 function test4()
 {
+  console.log("test4 from dev")
+}
+
+function test6()
+{
+  //yet to be implemented
 }
 
 //from master
