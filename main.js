@@ -6,7 +6,8 @@ function test1()
 
 function test2()
 {
-  console.log("test2")
+  //made from master branch
+  console.log("test2 dev")
 }
 
 function test3()
