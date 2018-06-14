@@ -25,6 +25,8 @@ function test4()
 function test6()
 {
   //yet to be implemented
+  console.log("test6 from master")
+  //new functionality to be discussed in upcoming sprint
 }
 
 //from master
