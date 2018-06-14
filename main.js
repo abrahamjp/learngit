@@ -11,6 +11,8 @@ function test2()
 
 function test3()
 {
+  //dev branch
+  console.log("test3")
 }
 
 function test4()
