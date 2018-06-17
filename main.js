@@ -1,3 +1,7 @@
+function v1()
+{
+}
+
 function main()
 {
 }
