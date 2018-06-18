@@ -1,6 +1,6 @@
-function mytest()
+function mytest1()
 {
-   console.log("test")
+   console.log("testppp")
 }
 
 function v1()
