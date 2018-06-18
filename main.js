@@ -1,3 +1,27 @@
+<<<<<<< HEAD
+function mytest1()
+{
+   console.log("testppp")
+=======
+function mytestqw()
+{
+   var x =1
+   var i = 2
+   console.log("122test")
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+   var = aaa
+>>>>>>> dev
+}
+
+function v1()
+{
+}
+
+function main()
+{
+}
 
 function test1()
 {
