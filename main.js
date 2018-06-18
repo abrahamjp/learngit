@@ -1,4 +1,4 @@
-function mytestqw123()
+function alpha()
 {
    var x =1
    var i = 2
@@ -6,7 +6,13 @@ function mytestqw123()
    var = aaa
 }
 
+<<<<<<< HEAD
 function v3()
+||||||| merged common ancestors
+function v1()
+=======
+function v2()
+>>>>>>> 67c00bb8b32ced623f631162714782146e1f3b75
 {
 }
 
