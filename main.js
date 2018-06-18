@@ -1,6 +1,8 @@
-function mytest()
+function mytestqw()
 {
-   console.log("test")
+   var x =1
+   var i = 2
+   console.log("122test")
 }
 
 function v1()
