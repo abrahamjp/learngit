@@ -1,4 +1,9 @@
-function todo()
+function mytest()
+{
+   console.log("test")
+}
+
+function v1()
 {
 }
 
