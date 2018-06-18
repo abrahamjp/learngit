@@ -8,6 +8,10 @@ function mytestqw()
    var x =1
    var i = 2
    console.log("122test")
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+   var = aaa
 >>>>>>> dev
 }
 
