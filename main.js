@@ -6,7 +6,7 @@ function mytestqw123()
    var = aaa
 }
 
-function v1()
+function v3()
 {
 }
 
