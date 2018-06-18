@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 function alpha()
 {
    var x =1
    var i = 2
    console.log("123423422test")
+=======
+function mytestqw123()
+{
+   var x =1
+   var i = 2
+   console.log("122test")
+   var = aaa
+>>>>>>> eb133ad7b6ab42a8262980e6cb6bcbd0cd98a540
 }
 
 function v1()
@@ -41,6 +50,7 @@ function test6()
   //yet to be implemented
   console.log("test6 from master")
   //new functionality to be discussed in upcoming sprint
+  console.log('test6 from dev')
 }
 
 //from master
